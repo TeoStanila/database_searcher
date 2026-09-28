@@ -10,7 +10,7 @@ Antrenarea Modelului
    ↓
 Inferența Modelului
 ```
-Pentru comenzile necesare rulării soluției, vedeți "README.txt"
+Pentru comenzile necesare rulării soluției, vedeți "README"
 
 ## Generarea de Date
 Datasetul folosit în acest task are este de forma (query - indici_relevanți), unde "query" reprezintă cerința utilizatorului iar "indici_relevanți" indicii documentelor relevante pentru acea cerere.

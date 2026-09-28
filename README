@@ -1,4 +1,4 @@
-Pentru a obține exact modelul descris în "Writeup", trebuie rulate următoarele comenzi în folderul cu sluția:
+Pentru a obține exact modelul descris în "Writeup", trebuie rulate următoarele comenzi în folderul cu soluția:
 
 1. python3 data_generation.py --num_examples 300 --output complex_dataset.jsonl
 2. python3 train.py
