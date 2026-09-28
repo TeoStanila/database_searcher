@@ -13,7 +13,7 @@ from sentence_transformers.sentence_transformer.evaluation import InformationRet
 
 BATCH_SIZE = 128
 EVAL_BATCH_SIZE = 128
-NUM_EPOCHS = 10
+NUM_EPOCHS = 1
 LEARNING_RATE = 2e-5
 TEMPERATURE = 0.05
 EVAL_K = 10
